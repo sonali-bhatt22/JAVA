@@ -1,5 +1,5 @@
 //how many times a number appears using hashmap
-
+package hashmap;
 import java.util.Scanner;
 
 public class HashmapP1 {

@@ -1,5 +1,5 @@
 //reverse an array using recursion two pointers
-
+package recursion;
 public class RecursionP6 {
     static void f(int arr[], int l, int r){
         if(l>=r) return;

@@ -1,3 +1,4 @@
+package sorting;
 public class SelectionSort {
     static void selection_Sort(int[] arr, int n) {
         for (int i = 0; i < n - 1; i++) {

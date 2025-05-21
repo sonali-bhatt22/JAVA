@@ -1,5 +1,5 @@
 //if a string is palindrome or not
-
+package recursion;
 import java.util.Scanner;
 
 public class RecursionP8 { 

@@ -1,5 +1,5 @@
 //factorial of num
-
+package recursion;
 import java.util.Scanner;
 
 public class RecursionP4 {
