@@ -1,7 +1,7 @@
 package recursion;
 import java.util.Scanner;
 
-public class RecusrsionP3 {
+public class RecursionP3 {
     static void f(int i, int sum){
         if(i<1){
             System.out.println(sum);
