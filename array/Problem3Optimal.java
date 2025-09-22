@@ -1,3 +1,4 @@
+//Optimal solution foir locating zero to end of the given array
 package array;
 
 public class Problem3Optimal {
