@@ -1,3 +1,4 @@
+//union of two arrays Optimal Solution
 package array;
 
 import java.util.Arrays;
